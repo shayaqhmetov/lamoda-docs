@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkzfulfilment=self.webpackChunkkzfulfilment||[]).push([[35],{6090:function(a){a.exports=JSON.parse('{"allTagsPath":"/lamoda-docs/blog/tags","slug":"/lamoda-docs/blog/tags/facebook","name":"facebook","count":1,"permalink":"/lamoda-docs/blog/tags/facebook"}')}}]);

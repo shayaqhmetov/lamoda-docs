@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkzfulfilment=self.webpackChunkkzfulfilment||[]).push([[5926],{5559:function(l){l.exports=JSON.parse('{"allTagsPath":"/lamoda-docs/blog/tags","slug":"/lamoda-docs/blog/tags/hello","name":"hello","count":2,"permalink":"/lamoda-docs/blog/tags/hello"}')}}]);

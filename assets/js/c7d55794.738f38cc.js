@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkzfulfilment=self.webpackChunkkzfulfilment||[]).push([[9353],{1707:function(s){s.exports=JSON.parse('{"allTagsPath":"/lamoda-docs/blog/tags","slug":"/lamoda-docs/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/lamoda-docs/blog/tags/docusaurus"}')}}]);

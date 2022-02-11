@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkzfulfilment=self.webpackChunkkzfulfilment||[]).push([[2727],{6903:function(e){e.exports=JSON.parse('{"permalink":"/lamoda-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
